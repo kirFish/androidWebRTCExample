@@ -1,0 +1,1 @@
+This is an webRTC streaming app which sends media stream to media server which then can play it anywhere it likes. Also it sets up a simple WebSocket which allows to send messages from outside to control android camera
